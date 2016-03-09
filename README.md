@@ -32,6 +32,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     - [CMS](#cms)
     - [E-commerce](#e-commerce)
     - [RESTful API](#restful-api)
+    - [Serialization](#serialization)
     - [Authentication](#authentication)
     - [Template Engine](#template-engine)
     - [Queue](#queue)
@@ -510,6 +511,12 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from Tastypie.
     * [ripozo](https://github.com/vertical-knowledge/ripozo) - Quickly creating REST/HATEOAS/Hypermedia APIs.
 
+## Serialization
+
+*Libraries for serializing complex data types*
+
+* [marshmallow](http://marshmallow.readthedocs.org/en/latest/) - marshmallow is an ORM/ODM/framework-agnostic library for converting complex datatypes, such as objects, to and from native Python datatypes.
+
 ## Authentication
 
 *Libraries for implementing authentications schemes.*
@@ -537,7 +544,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [Jinja2](https://github.com/mitsuhiko/jinja2) - A modern and designer friendly templating language.
 * [Chameleon](https://chameleon.readthedocs.org/en/latest/) - An HTML/XML template engine. Modeled after ZPT, optimized for speed.
-* [Genshi](http://genshi.edgewall.org/) - Python templating toolkit for generation of web-aware output.
+* [Genshi](https://genshi.edgewall.org/) - Python templating toolkit for generation of web-aware output.
 * [Mako](http://www.makotemplates.org/) - Hyperfast and lightweight templating for the Python platform.
 
 ## Queue
@@ -827,7 +834,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) - Python bindings for the Ogre 3D render engine, can be used for games, simulations, anything 3D.
 * [PyOpenGL](http://pyopengl.sourceforge.net/) - Python ctypes bindings for OpenGL and it's related APIs.
 * [PySDL2](http://pysdl2.readthedocs.org/en/latest/) - A ctypes based wrapper for the SDL2 library.
-* [RenPy](http://www.renpy.org/) - A Visual Novel engine.
+* [RenPy](https://www.renpy.org/) - A Visual Novel engine.
 
 ## Logging
 
